@@ -1,0 +1,50 @@
+{
+  "checksum": {
+    "previous": "defd7d370b87f5f866aecd080ad69913d1e8b245e5eeee354ca78375c33cf038",
+    "current": "defd7d370b87f5f866aecd080ad69913d1e8b245e5eeee354ca78375c33cf038"
+  },
+  "fonts": [
+    "lovely-icons/lovely-icons.ttf",
+    "lovely-icons/lovely-icons.svg",
+    "lovely-icons/lovely-icons.woff",
+    "lovely-icons/lovely-icons.eot"
+  ],
+  "glyphs": {
+    "debian": {
+      "codepoint": 61696,
+      "source": "svg/debian.svg"
+    }
+  },
+  "options": {
+    "autowidth": false,
+    "config": "fontcustom.yml",
+    "css_selector": ".li-{{glyph}}",
+    "debug": false,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_name": "lovely-icons",
+    "force": true,
+    "input": {
+      "templates": "svg",
+      "vectors": "svg"
+    },
+    "no_hash": true,
+    "output": {
+      "css": "lovely-icons",
+      "fonts": "lovely-icons",
+      "preview": "lovely-icons"
+    },
+    "preprocessor_path": null,
+    "quiet": false,
+    "templates": [
+      "css",
+      "preview"
+    ]
+  },
+  "templates": [
+    "lovely-icons/lovely-icons.css",
+    "lovely-icons/lovely-icons-preview.html"
+  ]
+}

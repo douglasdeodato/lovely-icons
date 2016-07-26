@@ -23,7 +23,8 @@
 [data-icon]:before { content: attr(data-icon); }
 
 [data-icon]:before,
-.li-debian:before {
+.li-debian:before,
+.li-poke-ball:before {
   display: inline-block;
   font-family: "lovely-icons";
   font-style: normal;
@@ -39,3 +40,4 @@
 }
 
 .li-debian:before { content: "\f100"; }
+.li-poke-ball:before { content: "\f101"; }

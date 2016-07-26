@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "defd7d370b87f5f866aecd080ad69913d1e8b245e5eeee354ca78375c33cf038",
-    "current": "defd7d370b87f5f866aecd080ad69913d1e8b245e5eeee354ca78375c33cf038"
+    "previous": "9a5428ab9ca3d7e63b1475e7d3018d5d13a3cfe8ba41b4fda41750bac0c02cf4",
+    "current": "9a5428ab9ca3d7e63b1475e7d3018d5d13a3cfe8ba41b4fda41750bac0c02cf4"
   },
   "fonts": [
     "lovely-icons/lovely-icons.ttf",
@@ -13,6 +13,10 @@
     "debian": {
       "codepoint": 61696,
       "source": "svg/debian.svg"
+    },
+    "poke-ball": {
+      "codepoint": 61697,
+      "source": "svg/poke-ball.svg"
     }
   },
   "options": {

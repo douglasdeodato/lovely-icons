@@ -24,6 +24,7 @@
 
 [data-icon]:before,
 .li-debian:before,
+.li-invoice:before,
 .li-poke-ball:before {
   display: inline-block;
   font-family: "lovely-icons";
@@ -40,4 +41,5 @@
 }
 
 .li-debian:before { content: "\f100"; }
+.li-invoice:before { content: "\f102"; }
 .li-poke-ball:before { content: "\f101"; }

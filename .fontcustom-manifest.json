@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "707b45fd54de7d6cfdd1b70f70e008693f0710cad05627d092f62676fda74872",
-    "current": "707b45fd54de7d6cfdd1b70f70e008693f0710cad05627d092f62676fda74872"
+    "previous": "b7f202f34f1fd8641b0336fafc6117b9d4a59b1f7e80d86420a9cc3ad7ac771d",
+    "current": "b7f202f34f1fd8641b0336fafc6117b9d4a59b1f7e80d86420a9cc3ad7ac771d"
   },
   "fonts": [
     "lovely-icons/lovely-icons.ttf",
@@ -17,6 +17,10 @@
     "invoice": {
       "codepoint": 61698,
       "source": "svg/invoice.svg"
+    },
+    "linkedin": {
+      "codepoint": 61699,
+      "source": "svg/linkedin.svg"
     },
     "poke-ball": {
       "codepoint": 61697,

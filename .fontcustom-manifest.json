@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "78d0f5f8a784b35da04c1c170ac5de36f268f6be04f5686aa72cd2aba0bbe184",
-    "current": "78d0f5f8a784b35da04c1c170ac5de36f268f6be04f5686aa72cd2aba0bbe184"
+    "previous": "657a4ab1eeb577a023aa83be114cccaf2b208bc89a5bc0c525b63e5f957c5992",
+    "current": "657a4ab1eeb577a023aa83be114cccaf2b208bc89a5bc0c525b63e5f957c5992"
   },
   "fonts": [
     "lovely-icons/lovely-icons.ttf",
@@ -14,13 +14,25 @@
       "codepoint": 61715,
       "source": "svg/add.svg"
     },
+    "amazon": {
+      "codepoint": 61724,
+      "source": "svg/amazon.svg"
+    },
     "android": {
       "codepoint": 61720,
       "source": "svg/android.svg"
     },
+    "arrow-down": {
+      "codepoint": 61725,
+      "source": "svg/arrow-down.svg"
+    },
     "bars": {
       "codepoint": 61721,
       "source": "svg/bars.svg"
+    },
+    "batman": {
+      "codepoint": 61726,
+      "source": "svg/batman.svg"
     },
     "cancel": {
       "codepoint": 61716,
@@ -29,6 +41,10 @@
     "checked": {
       "codepoint": 61710,
       "source": "svg/checked.svg"
+    },
+    "cloud-download": {
+      "codepoint": 61727,
+      "source": "svg/cloud-download.svg"
     },
     "debian": {
       "codepoint": 61696,
@@ -41,6 +57,10 @@
     "email": {
       "codepoint": 61712,
       "source": "svg/email.svg"
+    },
+    "eye": {
+      "codepoint": 61728,
+      "source": "svg/eye.svg"
     },
     "facebook": {
       "codepoint": 61702,
@@ -93,6 +113,10 @@
     "search": {
       "codepoint": 61714,
       "source": "svg/search.svg"
+    },
+    "shoping-cart": {
+      "codepoint": 61729,
+      "source": "svg/shoping-cart.svg"
     },
     "star": {
       "codepoint": 61705,

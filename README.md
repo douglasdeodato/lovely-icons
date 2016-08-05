@@ -1,6 +1,6 @@
 # [LovelyIcons](http://www.douglasdeodato.com/lovelyicons)
 
-Icons made with Love
+CSS Icons made with Love
 
 ## Summary 
 
@@ -14,15 +14,7 @@ Icons made with Love
 ## About
 
 
-## Total of Icons: 4
-
-
-| Distribution | CSS class                | Inclusion code
-| -------------|--------------------------|-------------------------------------
-| debian       | `li-debian`              | `<div class="li-debian"></div>`
-| invoice      | `li-invoice`             | `<div class="li-invoice"></div>`
-| linkedin     | `li-linkedin`            | `<div class="li-linkedin"></div>`
-| poke-ball    | `li-poke-ball`           | `<div class="li-poke-ball"></div>`
+## Total of Icons: 28 [see](icons.md)
 
 
 ## Request or contribute new icons?

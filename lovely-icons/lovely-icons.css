@@ -23,10 +23,34 @@
 [data-icon]:before { content: attr(data-icon); }
 
 [data-icon]:before,
+.li-add:before,
+.li-android:before,
+.li-bars:before,
+.li-cancel:before,
+.li-checked:before,
 .li-debian:before,
+.li-disabled:before,
+.li-email:before,
+.li-facebook:before,
+.li-fast-foward:before,
+.li-heart:before,
+.li-instagram:before,
 .li-invoice:before,
 .li-linkedin:before,
-.li-poke-ball:before {
+.li-location:before,
+.li-play-button:before,
+.li-poke-ball:before,
+.li-power:before,
+.li-rain-drop:before,
+.li-recycle:before,
+.li-search:before,
+.li-star:before,
+.li-trash:before,
+.li-twitter:before,
+.li-whatsapp:before,
+.li-wifi:before,
+.li-wifi-logo:before,
+.li-wifi2:before {
   display: inline-block;
   font-family: "lovely-icons";
   font-style: normal;
@@ -41,7 +65,31 @@
   font-smoothing: antialiased;
 }
 
+.li-add:before { content: "\f113"; }
+.li-android:before { content: "\f118"; }
+.li-bars:before { content: "\f119"; }
+.li-cancel:before { content: "\f114"; }
+.li-checked:before { content: "\f10e"; }
 .li-debian:before { content: "\f100"; }
+.li-disabled:before { content: "\f10f"; }
+.li-email:before { content: "\f110"; }
+.li-facebook:before { content: "\f106"; }
+.li-fast-foward:before { content: "\f11b"; }
+.li-heart:before { content: "\f104"; }
+.li-instagram:before { content: "\f105"; }
 .li-invoice:before { content: "\f102"; }
 .li-linkedin:before { content: "\f103"; }
+.li-location:before { content: "\f107"; }
+.li-play-button:before { content: "\f11a"; }
 .li-poke-ball:before { content: "\f101"; }
+.li-power:before { content: "\f115"; }
+.li-rain-drop:before { content: "\f111"; }
+.li-recycle:before { content: "\f108"; }
+.li-search:before { content: "\f112"; }
+.li-star:before { content: "\f109"; }
+.li-trash:before { content: "\f116"; }
+.li-twitter:before { content: "\f10a"; }
+.li-whatsapp:before { content: "\f10b"; }
+.li-wifi:before { content: "\f10c"; }
+.li-wifi-logo:before { content: "\f10d"; }
+.li-wifi2:before { content: "\f117"; }

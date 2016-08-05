@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "b7f202f34f1fd8641b0336fafc6117b9d4a59b1f7e80d86420a9cc3ad7ac771d",
-    "current": "b7f202f34f1fd8641b0336fafc6117b9d4a59b1f7e80d86420a9cc3ad7ac771d"
+    "previous": "78d0f5f8a784b35da04c1c170ac5de36f268f6be04f5686aa72cd2aba0bbe184",
+    "current": "78d0f5f8a784b35da04c1c170ac5de36f268f6be04f5686aa72cd2aba0bbe184"
   },
   "fonts": [
     "lovely-icons/lovely-icons.ttf",
@@ -10,9 +10,53 @@
     "lovely-icons/lovely-icons.eot"
   ],
   "glyphs": {
+    "add": {
+      "codepoint": 61715,
+      "source": "svg/add.svg"
+    },
+    "android": {
+      "codepoint": 61720,
+      "source": "svg/android.svg"
+    },
+    "bars": {
+      "codepoint": 61721,
+      "source": "svg/bars.svg"
+    },
+    "cancel": {
+      "codepoint": 61716,
+      "source": "svg/cancel.svg"
+    },
+    "checked": {
+      "codepoint": 61710,
+      "source": "svg/checked.svg"
+    },
     "debian": {
       "codepoint": 61696,
       "source": "svg/debian.svg"
+    },
+    "disabled": {
+      "codepoint": 61711,
+      "source": "svg/disabled.svg"
+    },
+    "email": {
+      "codepoint": 61712,
+      "source": "svg/email.svg"
+    },
+    "facebook": {
+      "codepoint": 61702,
+      "source": "svg/facebook.svg"
+    },
+    "fast-foward": {
+      "codepoint": 61723,
+      "source": "svg/fast-foward.svg"
+    },
+    "heart": {
+      "codepoint": 61700,
+      "source": "svg/heart.svg"
+    },
+    "instagram": {
+      "codepoint": 61701,
+      "source": "svg/instagram.svg"
     },
     "invoice": {
       "codepoint": 61698,
@@ -22,9 +66,61 @@
       "codepoint": 61699,
       "source": "svg/linkedin.svg"
     },
+    "location": {
+      "codepoint": 61703,
+      "source": "svg/location.svg"
+    },
+    "play-button": {
+      "codepoint": 61722,
+      "source": "svg/play-button.svg"
+    },
     "poke-ball": {
       "codepoint": 61697,
       "source": "svg/poke-ball.svg"
+    },
+    "power": {
+      "codepoint": 61717,
+      "source": "svg/power.svg"
+    },
+    "rain-drop": {
+      "codepoint": 61713,
+      "source": "svg/rain-drop.svg"
+    },
+    "recycle": {
+      "codepoint": 61704,
+      "source": "svg/recycle.svg"
+    },
+    "search": {
+      "codepoint": 61714,
+      "source": "svg/search.svg"
+    },
+    "star": {
+      "codepoint": 61705,
+      "source": "svg/star.svg"
+    },
+    "trash": {
+      "codepoint": 61718,
+      "source": "svg/trash.svg"
+    },
+    "twitter": {
+      "codepoint": 61706,
+      "source": "svg/twitter.svg"
+    },
+    "whatsapp": {
+      "codepoint": 61707,
+      "source": "svg/whatsapp.svg"
+    },
+    "wifi": {
+      "codepoint": 61708,
+      "source": "svg/wifi.svg"
+    },
+    "wifi-logo": {
+      "codepoint": 61709,
+      "source": "svg/wifi-logo.svg"
+    },
+    "wifi2": {
+      "codepoint": 61719,
+      "source": "svg/wifi2.svg"
     }
   },
   "options": {

@@ -1,4 +1,4 @@
-## Total of Icons: 34
+## Total of Icons: 40
 
 
 | Distribution   | CSS class                | Inclusion code
@@ -36,7 +36,12 @@
 | shoping-cart   | `li-shoping-cart`        | `<div class="li-shoping-cart"></div>`
 | batman         | `li-batman`              | `<div class="li-batman"></div>`
 | eye            | `li-eye`                 | `<div class="li-eye"></div>`
-
+| mic            | `li-mic`                 | `<div class="li-mic"></div>`
+| iphone         | `li-iphone`              | `<div class="li-iphone"></div>`
+| volumeoff      | `li-volumeoff`           | `<div class="li-volumeoff"></div>`
+| bluetooth      | `li-bluetooth`           | `<div class="li-bluetooth"></div>`
+| batteryfull    | `li-batteryfull`         | `<div class="li-batteryfull"></div>`
+| camera         | `li-camera`              | `<div class="li-camera"></div>`
 
 
 

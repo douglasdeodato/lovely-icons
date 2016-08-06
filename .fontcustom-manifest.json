@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "657a4ab1eeb577a023aa83be114cccaf2b208bc89a5bc0c525b63e5f957c5992",
-    "current": "657a4ab1eeb577a023aa83be114cccaf2b208bc89a5bc0c525b63e5f957c5992"
+    "previous": "a9c652fbf1aeefa0ea1b4e632cd1ac676430e6dbbb2af8b3d5ce6973cd877647",
+    "current": "a9c652fbf1aeefa0ea1b4e632cd1ac676430e6dbbb2af8b3d5ce6973cd877647"
   },
   "fonts": [
     "lovely-icons/lovely-icons.ttf",
@@ -33,6 +33,18 @@
     "batman": {
       "codepoint": 61726,
       "source": "svg/batman.svg"
+    },
+    "batteryfull": {
+      "codepoint": 61731,
+      "source": "svg/batteryfull.svg"
+    },
+    "bluetooth": {
+      "codepoint": 61732,
+      "source": "svg/bluetooth.svg"
+    },
+    "camera": {
+      "codepoint": 61733,
+      "source": "svg/camera.svg"
     },
     "cancel": {
       "codepoint": 61716,
@@ -82,6 +94,10 @@
       "codepoint": 61698,
       "source": "svg/invoice.svg"
     },
+    "iphone": {
+      "codepoint": 61730,
+      "source": "svg/iphone.svg"
+    },
     "linkedin": {
       "codepoint": 61699,
       "source": "svg/linkedin.svg"
@@ -89,6 +105,10 @@
     "location": {
       "codepoint": 61703,
       "source": "svg/location.svg"
+    },
+    "mic": {
+      "codepoint": 61734,
+      "source": "svg/mic.svg"
     },
     "play-button": {
       "codepoint": 61722,
@@ -129,6 +149,10 @@
     "twitter": {
       "codepoint": 61706,
       "source": "svg/twitter.svg"
+    },
+    "volume-off": {
+      "codepoint": 61735,
+      "source": "svg/volume-off.svg"
     },
     "whatsapp": {
       "codepoint": 61707,

@@ -48,17 +48,20 @@
 .li-linkedin:before,
 .li-location:before,
 .li-mic:before,
+.li-picarto:before,
 .li-play-button:before,
 .li-poke-ball:before,
 .li-power:before,
 .li-rain-drop:before,
 .li-recycle:before,
 .li-search:before,
+.li-shakespeare:before,
 .li-shoping-cart:before,
 .li-star:before,
 .li-trash:before,
 .li-twitter:before,
 .li-volume-off:before,
+.li-wallet:before,
 .li-whatsapp:before,
 .li-wifi:before,
 .li-wifi-logo:before,
@@ -102,17 +105,20 @@
 .li-linkedin:before { content: "\f103"; }
 .li-location:before { content: "\f107"; }
 .li-mic:before { content: "\f126"; }
+.li-picarto:before { content: "\f128"; }
 .li-play-button:before { content: "\f11a"; }
 .li-poke-ball:before { content: "\f101"; }
 .li-power:before { content: "\f115"; }
 .li-rain-drop:before { content: "\f111"; }
 .li-recycle:before { content: "\f108"; }
 .li-search:before { content: "\f112"; }
+.li-shakespeare:before { content: "\f129"; }
 .li-shoping-cart:before { content: "\f121"; }
 .li-star:before { content: "\f109"; }
 .li-trash:before { content: "\f116"; }
 .li-twitter:before { content: "\f10a"; }
 .li-volume-off:before { content: "\f127"; }
+.li-wallet:before { content: "\f12a"; }
 .li-whatsapp:before { content: "\f10b"; }
 .li-wifi:before { content: "\f10c"; }
 .li-wifi-logo:before { content: "\f10d"; }

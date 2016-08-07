@@ -1,4 +1,4 @@
-## Total of Icons: 40
+## Total of Icons: 43
 
 
 | Distribution   | CSS class                | Inclusion code
@@ -42,6 +42,9 @@
 | bluetooth      | `li-bluetooth`           | `<div class="li-bluetooth"></div>`
 | batteryfull    | `li-batteryfull`         | `<div class="li-batteryfull"></div>`
 | camera         | `li-camera`              | `<div class="li-camera"></div>`
+| shakespeare    | `li-shakespeare`         | `<div class="li-shakespeare"></div>`
+| wallet         | `li-wallet`              | `<div class="li-wallet"></div>`
+| picarto        | `li-picarto`             | `<div class="li-picarto"></div>`
 
 
 

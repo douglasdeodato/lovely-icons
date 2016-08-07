@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "a9c652fbf1aeefa0ea1b4e632cd1ac676430e6dbbb2af8b3d5ce6973cd877647",
-    "current": "a9c652fbf1aeefa0ea1b4e632cd1ac676430e6dbbb2af8b3d5ce6973cd877647"
+    "previous": "f95875e007ef260cafeb3d8a044054653f0b056b33faf0aa69197c5cfdef7313",
+    "current": "f95875e007ef260cafeb3d8a044054653f0b056b33faf0aa69197c5cfdef7313"
   },
   "fonts": [
     "lovely-icons/lovely-icons.ttf",
@@ -110,6 +110,10 @@
       "codepoint": 61734,
       "source": "svg/mic.svg"
     },
+    "picarto": {
+      "codepoint": 61736,
+      "source": "svg/picarto.svg"
+    },
     "play-button": {
       "codepoint": 61722,
       "source": "svg/play-button.svg"
@@ -134,6 +138,10 @@
       "codepoint": 61714,
       "source": "svg/search.svg"
     },
+    "shakespeare": {
+      "codepoint": 61737,
+      "source": "svg/shakespeare.svg"
+    },
     "shoping-cart": {
       "codepoint": 61729,
       "source": "svg/shoping-cart.svg"
@@ -153,6 +161,10 @@
     "volume-off": {
       "codepoint": 61735,
       "source": "svg/volume-off.svg"
+    },
+    "wallet": {
+      "codepoint": 61738,
+      "source": "svg/wallet.svg"
     },
     "whatsapp": {
       "codepoint": 61707,

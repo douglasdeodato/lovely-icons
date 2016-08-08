@@ -36,6 +36,7 @@
 .li-checked:before,
 .li-cloud-download:before,
 .li-debian:before,
+.li-deviantart:before,
 .li-disabled:before,
 .li-email:before,
 .li-eye:before,
@@ -49,6 +50,7 @@
 .li-location:before,
 .li-mic:before,
 .li-picarto:before,
+.li-pinterest:before,
 .li-play-button:before,
 .li-poke-ball:before,
 .li-power:before,
@@ -65,7 +67,8 @@
 .li-whatsapp:before,
 .li-wifi:before,
 .li-wifi-logo:before,
-.li-wifi2:before {
+.li-wifi2:before,
+.li-youtube:before {
   display: inline-block;
   font-family: "lovely-icons";
   font-style: normal;
@@ -93,6 +96,7 @@
 .li-checked:before { content: "\f10e"; }
 .li-cloud-download:before { content: "\f11f"; }
 .li-debian:before { content: "\f100"; }
+.li-deviantart:before { content: "\f12e"; }
 .li-disabled:before { content: "\f10f"; }
 .li-email:before { content: "\f110"; }
 .li-eye:before { content: "\f120"; }
@@ -106,6 +110,7 @@
 .li-location:before { content: "\f107"; }
 .li-mic:before { content: "\f126"; }
 .li-picarto:before { content: "\f128"; }
+.li-pinterest:before { content: "\f12c"; }
 .li-play-button:before { content: "\f11a"; }
 .li-poke-ball:before { content: "\f101"; }
 .li-power:before { content: "\f115"; }
@@ -123,3 +128,4 @@
 .li-wifi:before { content: "\f10c"; }
 .li-wifi-logo:before { content: "\f10d"; }
 .li-wifi2:before { content: "\f117"; }
+.li-youtube:before { content: "\f12d"; }

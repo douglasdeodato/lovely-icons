@@ -1,4 +1,4 @@
-## Total of Icons: 43
+## Total of Icons: 46
 
 
 | Distribution   | CSS class                | Inclusion code
@@ -45,6 +45,9 @@
 | shakespeare    | `li-shakespeare`         | `<div class="li-shakespeare"></div>`
 | wallet         | `li-wallet`              | `<div class="li-wallet"></div>`
 | picarto        | `li-picarto`             | `<div class="li-picarto"></div>`
+| deviantart     | `li-deviantart`          | `<div class="li-deviantart"></div>`
+| pinterest      | `li-pinterest`           | `<div class="li-pinterest"></div>`
+| youtube        | `li-youtube`             | `<div class="li-youtube"></div>`
 
 
 

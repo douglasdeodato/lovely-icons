@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "f95875e007ef260cafeb3d8a044054653f0b056b33faf0aa69197c5cfdef7313",
-    "current": "f95875e007ef260cafeb3d8a044054653f0b056b33faf0aa69197c5cfdef7313"
+    "previous": "55c85a7bda336efb500af7b9d14f7140f45377a65585c943e86fc19f4eeaa78c",
+    "current": "55c85a7bda336efb500af7b9d14f7140f45377a65585c943e86fc19f4eeaa78c"
   },
   "fonts": [
     "lovely-icons/lovely-icons.ttf",
@@ -62,6 +62,10 @@
       "codepoint": 61696,
       "source": "svg/debian.svg"
     },
+    "deviantart": {
+      "codepoint": 61742,
+      "source": "svg/deviantart.svg"
+    },
     "disabled": {
       "codepoint": 61711,
       "source": "svg/disabled.svg"
@@ -113,6 +117,10 @@
     "picarto": {
       "codepoint": 61736,
       "source": "svg/picarto.svg"
+    },
+    "pinterest": {
+      "codepoint": 61740,
+      "source": "svg/pinterest.svg"
     },
     "play-button": {
       "codepoint": 61722,
@@ -181,6 +189,10 @@
     "wifi2": {
       "codepoint": 61719,
       "source": "svg/wifi2.svg"
+    },
+    "youtube": {
+      "codepoint": 61741,
+      "source": "svg/youtube.svg"
     }
   },
   "options": {

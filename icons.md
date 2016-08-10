@@ -1,4 +1,4 @@
-## Total of Icons: 46
+## Total of Icons: 48
 
 
 | Distribution   | CSS class                | Inclusion code
@@ -48,6 +48,9 @@
 | deviantart     | `li-deviantart`          | `<div class="li-deviantart"></div>`
 | pinterest      | `li-pinterest`           | `<div class="li-pinterest"></div>`
 | youtube        | `li-youtube`             | `<div class="li-youtube"></div>`
+| ios-trash      | `li-ios-trash`           | `<div class="li-ios-trash"></div>`
+| ios-share      | `li-ios-share`           | `<div class="li-ios-share"></div>`
+
 
 
 

@@ -45,6 +45,8 @@
 .li-heart:before,
 .li-instagram:before,
 .li-invoice:before,
+.li-ios-share:before,
+.li-ios-trash:before,
 .li-iphone:before,
 .li-linkedin:before,
 .li-location:before,
@@ -105,6 +107,8 @@
 .li-heart:before { content: "\f104"; }
 .li-instagram:before { content: "\f105"; }
 .li-invoice:before { content: "\f102"; }
+.li-ios-share:before { content: "\f12f"; }
+.li-ios-trash:before { content: "\f130"; }
 .li-iphone:before { content: "\f122"; }
 .li-linkedin:before { content: "\f103"; }
 .li-location:before { content: "\f107"; }

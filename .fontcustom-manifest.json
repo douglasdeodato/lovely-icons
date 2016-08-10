@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "55c85a7bda336efb500af7b9d14f7140f45377a65585c943e86fc19f4eeaa78c",
-    "current": "55c85a7bda336efb500af7b9d14f7140f45377a65585c943e86fc19f4eeaa78c"
+    "previous": "99e925d0b0b23dfb2f6fdf168cda484e934a952e08f09a610510d51438bd11c6",
+    "current": "99e925d0b0b23dfb2f6fdf168cda484e934a952e08f09a610510d51438bd11c6"
   },
   "fonts": [
     "lovely-icons/lovely-icons.ttf",
@@ -97,6 +97,14 @@
     "invoice": {
       "codepoint": 61698,
       "source": "svg/invoice.svg"
+    },
+    "ios-share": {
+      "codepoint": 61743,
+      "source": "svg/ios-share.svg"
+    },
+    "ios-trash": {
+      "codepoint": 61744,
+      "source": "svg/ios-trash.svg"
     },
     "iphone": {
       "codepoint": 61730,

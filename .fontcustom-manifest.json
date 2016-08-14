@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "99e925d0b0b23dfb2f6fdf168cda484e934a952e08f09a610510d51438bd11c6",
-    "current": "99e925d0b0b23dfb2f6fdf168cda484e934a952e08f09a610510d51438bd11c6"
+    "previous": "1ab64650675c690d036ba2ee403502bee7a4f40194313ff7c4e92e5ebf5c2b6d",
+    "current": "1ab64650675c690d036ba2ee403502bee7a4f40194313ff7c4e92e5ebf5c2b6d"
   },
   "fonts": [
     "lovely-icons/lovely-icons.ttf",
@@ -97,6 +97,42 @@
     "invoice": {
       "codepoint": 61698,
       "source": "svg/invoice.svg"
+    },
+    "ios-add": {
+      "codepoint": 61745,
+      "source": "svg/ios-add.svg"
+    },
+    "ios-bookmarks": {
+      "codepoint": 61746,
+      "source": "svg/ios-bookmarks.svg"
+    },
+    "ios-camera": {
+      "codepoint": 61747,
+      "source": "svg/ios-camera.svg"
+    },
+    "ios-contacts": {
+      "codepoint": 61748,
+      "source": "svg/ios-contacts.svg"
+    },
+    "ios-featured": {
+      "codepoint": 61749,
+      "source": "svg/ios-featured.svg"
+    },
+    "ios-folder": {
+      "codepoint": 61750,
+      "source": "svg/ios-folder.svg"
+    },
+    "ios-location": {
+      "codepoint": 61751,
+      "source": "svg/ios-location.svg"
+    },
+    "ios-reply": {
+      "codepoint": 61752,
+      "source": "svg/ios-reply.svg"
+    },
+    "ios-search": {
+      "codepoint": 61753,
+      "source": "svg/ios-search.svg"
     },
     "ios-share": {
       "codepoint": 61743,

@@ -45,6 +45,15 @@
 .li-heart:before,
 .li-instagram:before,
 .li-invoice:before,
+.li-ios-add:before,
+.li-ios-bookmarks:before,
+.li-ios-camera:before,
+.li-ios-contacts:before,
+.li-ios-featured:before,
+.li-ios-folder:before,
+.li-ios-location:before,
+.li-ios-reply:before,
+.li-ios-search:before,
 .li-ios-share:before,
 .li-ios-trash:before,
 .li-iphone:before,
@@ -107,6 +116,15 @@
 .li-heart:before { content: "\f104"; }
 .li-instagram:before { content: "\f105"; }
 .li-invoice:before { content: "\f102"; }
+.li-ios-add:before { content: "\f131"; }
+.li-ios-bookmarks:before { content: "\f132"; }
+.li-ios-camera:before { content: "\f133"; }
+.li-ios-contacts:before { content: "\f134"; }
+.li-ios-featured:before { content: "\f135"; }
+.li-ios-folder:before { content: "\f136"; }
+.li-ios-location:before { content: "\f137"; }
+.li-ios-reply:before { content: "\f138"; }
+.li-ios-search:before { content: "\f139"; }
 .li-ios-share:before { content: "\f12f"; }
 .li-ios-trash:before { content: "\f130"; }
 .li-iphone:before { content: "\f122"; }

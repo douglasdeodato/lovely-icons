@@ -1,4 +1,4 @@
-## Total of Icons: 48
+## Total of Icons: 57
 
 
 | Distribution   | CSS class                | Inclusion code
@@ -50,8 +50,16 @@
 | youtube        | `li-youtube`             | `<div class="li-youtube"></div>`
 | ios-trash      | `li-ios-trash`           | `<div class="li-ios-trash"></div>`
 | ios-share      | `li-ios-share`           | `<div class="li-ios-share"></div>`
+| ios-location   | `li-ios-location`        | `<div class="li-ios-location"></div>`
+| ios-camera     | `li-ios-camera`          | `<div class="li-ios-camera"></div>`
+| ios-bookmarks  | `li-ios-bookmarks`       | `<div class="li-ios-bookmarks"></div>`
+| ios-contacts   | `li-ios-contacts`        | `<div class="li-ios-contacts"></div>`
 
-
+| ios-add        | `li-ios-add`             | `<div class="li-ios-add"></div>`
+| ios-folder     | `li-ios-folder`          | `<div class="li-ios-folder"></div>`
+| ios-reply      | `li-ios-reply`           | `<div class="li-ios-reply"></div>`
+| ios-search     | `li-ios-search`          | `<div class="li-ios-search"></div>`
+| ios-featured   | `li-ios-featured`        | `<div class="li-ios-featured"></div>`
 
 
 

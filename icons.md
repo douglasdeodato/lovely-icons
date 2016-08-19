@@ -54,7 +54,6 @@
 | ios-camera     | `li-ios-camera`          | `<div class="li-ios-camera"></div>`
 | ios-bookmarks  | `li-ios-bookmarks`       | `<div class="li-ios-bookmarks"></div>`
 | ios-contacts   | `li-ios-contacts`        | `<div class="li-ios-contacts"></div>`
-
 | ios-add        | `li-ios-add`             | `<div class="li-ios-add"></div>`
 | ios-folder     | `li-ios-folder`          | `<div class="li-ios-folder"></div>`
 | ios-reply      | `li-ios-reply`           | `<div class="li-ios-reply"></div>`

@@ -1,0 +1,31 @@
+{
+  "name": "lovely-icons",
+  "version": "1.0.0",
+  "description": "douglas deodato",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/douglasdeodato/lovely-icons"
+  },
+  "keywords": [
+    "douglas",
+    "deodato"
+  ],
+  "author": "douglas deodato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/douglasdeodato/lovely-icons/issues"
+  },
+  "homepage": "https://github.com/douglasdeodato/lovely-icons#readme",
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-contrib-concat": "*",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-cssmin": "^1.0.2",
+    "grunt-contrib-sass": "*",
+    "grunt-contrib-watch": "*"
+  }
+}

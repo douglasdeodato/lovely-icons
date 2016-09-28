@@ -2,10 +2,11 @@
 
 CSS Icons made with Love
 
-## Summary 
+## Summary
 
 - [About](#about)
 - [Total of Icons](#totaloficons)
+- [CDN](#cdn)
 - [Request](#request)
 - [Dependencies](#dependencies)
 - [Creator](#creator)
@@ -15,6 +16,10 @@ CSS Icons made with Love
 
 
 ## Total of Icons: 57 [see](icons.md)
+
+
+## CDN
+https://cdn.jsdelivr.net/lovely-icons/0.1/lovely-icons.min.css
 
 
 ## Request or contribute new icons?

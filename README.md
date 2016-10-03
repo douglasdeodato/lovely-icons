@@ -15,7 +15,7 @@ CSS Icons made with Love
 ## About
 
 
-## Total of Icons: 57 [see](icons.md)
+## Total of Icons: 61 [see](icons.md)
 
 
 ## CDN

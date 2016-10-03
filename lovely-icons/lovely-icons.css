@@ -25,6 +25,7 @@
 [data-icon]:before,
 .li-add:before,
 .li-amazon:before,
+.li-anchor:before,
 .li-android:before,
 .li-arrow-down:before,
 .li-bars:before,
@@ -35,6 +36,7 @@
 .li-cancel:before,
 .li-checked:before,
 .li-cloud-download:before,
+.li-database:before,
 .li-debian:before,
 .li-deviantart:before,
 .li-disabled:before,
@@ -67,9 +69,11 @@
 .li-power:before,
 .li-rain-drop:before,
 .li-recycle:before,
+.li-rss-symbol:before,
 .li-search:before,
 .li-shakespeare:before,
 .li-shoping-cart:before,
+.li-snapchat:before,
 .li-star:before,
 .li-trash:before,
 .li-twitter:before,
@@ -96,6 +100,7 @@
 
 .li-add:before { content: "\f113"; }
 .li-amazon:before { content: "\f11c"; }
+.li-anchor:before { content: "\f13a"; }
 .li-android:before { content: "\f118"; }
 .li-arrow-down:before { content: "\f11d"; }
 .li-bars:before { content: "\f119"; }
@@ -106,6 +111,7 @@
 .li-cancel:before { content: "\f114"; }
 .li-checked:before { content: "\f10e"; }
 .li-cloud-download:before { content: "\f11f"; }
+.li-database:before { content: "\f13b"; }
 .li-debian:before { content: "\f100"; }
 .li-deviantart:before { content: "\f12e"; }
 .li-disabled:before { content: "\f10f"; }
@@ -138,9 +144,11 @@
 .li-power:before { content: "\f115"; }
 .li-rain-drop:before { content: "\f111"; }
 .li-recycle:before { content: "\f108"; }
+.li-rss-symbol:before { content: "\f13c"; }
 .li-search:before { content: "\f112"; }
 .li-shakespeare:before { content: "\f129"; }
 .li-shoping-cart:before { content: "\f121"; }
+.li-snapchat:before { content: "\f13d"; }
 .li-star:before { content: "\f109"; }
 .li-trash:before { content: "\f116"; }
 .li-twitter:before { content: "\f10a"; }

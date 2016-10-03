@@ -1,4 +1,4 @@
-## Total of Icons: 57
+## Total of Icons: 61
 
 
 | Distribution   | CSS class                | Inclusion code
@@ -59,8 +59,10 @@
 | ios-reply      | `li-ios-reply`           | `<div class="li-ios-reply"></div>`
 | ios-search     | `li-ios-search`          | `<div class="li-ios-search"></div>`
 | ios-featured   | `li-ios-featured`        | `<div class="li-ios-featured"></div>`
-
-
+| snapchat       | `li-snapchat`            | `<div class="li-snapchat"></div>`
+| anchor         | `li-anchor`              | `<div class="li-anchor"></div>`
+| rss-symbol     | `li-rss-symbol`          | `<div class="li-rss-symbol"></div>`
+| database       | `li-database`            | `<div class="li-database"></div>`
 
 
 

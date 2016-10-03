@@ -19,7 +19,7 @@ CSS Icons made with Love
 
 
 ## CDN
-https://cdn.jsdelivr.net/lovely-icons/0.1/lovely-icons.min.css
+https://cdn.jsdelivr.net/lovely-icons/0.1.3/lovely-icons/lovely-icons.min.css
 
 
 ## Request or contribute new icons?

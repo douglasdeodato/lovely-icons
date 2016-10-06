@@ -1,0 +1,23 @@
+ <div class="container text-center" ng-controller="IconCtrl">
+  <div class="row" ng-repeat="icon in icons">
+    <div class="col-md-4">
+      <div ng-bind-html="icon.cssicon | to_trusted"></div>
+      <span>{{icon.name}}</span>
+    </div>
+  </div>
+</div>
+
+
+<!--     <div class="container-fluid">
+      <div class="row">
+        <div class="col-md-4">
+        <i id="li-add" class="li-add"></i>
+        </div>
+        <div class="col-md-4">
+        <i id="li-amazon" class="li-amazon"></i>
+        </div>
+        <div class="col-md-4">
+        <i id="li-anchor" class="li-anchor"></i>
+        </div>
+      </div>
+    </div> -->

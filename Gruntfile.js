@@ -1,15 +1,16 @@
 module.exports = function(grunt) {
     var config = {};
 
-    //setup the configuration object
-    var jshint;
-
-    //all tasks that must be loaded.
-    var tasks = [
-                , 'grunt-contrib-watch'
-                , 'grunt-contrib-connect'
-                , 'grunt-contrib-cssmin'
-                ];
+      //src ===============================
+    var src;
+    config.src = src = {
+      //  sassMain: 'scss/main.scss',
+       // distFolder: 'public/stylesheets/lovelycss.dist.css',
+       // devFolder: 'public/stylesheets/lovelycss.dev.css',
+       // sassFolder: 'scss/**/*.scss',
+        appFolder: 'website/app/*',
+        serverPort: 4000
+    };
 
     var cssmin
     config.cssmin = {
@@ -27,8 +28,8 @@ module.exports = function(grunt) {
     //Watch ===============================
     config.watch = {
         scripts: {
-            files: ["<%= src.sassFolder %>"],
-            tasks: ["sass:dist"]
+            files: ["<%= src.appFolder %>"],
+            tasks: ["dist"]
         }
     }
 
@@ -46,13 +47,18 @@ module.exports = function(grunt) {
 
 
     //Register custom tasks ===============================
+
     grunt.registerTask('default', ['dist']);
+    //grunt.registerTask('dev', ['concat:dev', 'sass:dev']);
     grunt.registerTask('dist', ['cssmin']);
     grunt.registerTask('serve', ['connect:server', 'watch']);
+    require('time-grunt')(grunt);
+    require('load-grunt-tasks')(grunt, {
+        scope: 'devDependencies'
+    });
 
 
     //General setup ===============================
     grunt.initConfig(config);
-    tasks.forEach(grunt.loadNpmTasks);
 
 };

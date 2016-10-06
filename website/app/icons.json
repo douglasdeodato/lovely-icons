@@ -1,0 +1,15 @@
+[{
+    "cssicon": "<i class='li-add'></i>",
+    "name": "add"
+  }, {
+    "cssicon": "<i class='li-amazon'></i>",
+    "name": "amazon"
+  }, {
+    "cssicon": "<i class='li-anchor'></i>",
+    "name": "anchor"
+  }, {
+    "cssicon": "<i class='li-android'></i>",
+    "name": "android"
+  }
+
+]

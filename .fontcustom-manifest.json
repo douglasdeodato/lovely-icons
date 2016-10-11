@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "aa6ec91943e03c17f1a9fb24430f90d21af4e9f49055db25ac51e7eff33aacfa",
-    "current": "aa6ec91943e03c17f1a9fb24430f90d21af4e9f49055db25ac51e7eff33aacfa"
+    "previous": "d39631fd9b94960eaa8765b0620dfc22f48843a7f36e60b0a16161b5430a2a1a",
+    "current": "d39631fd9b94960eaa8765b0620dfc22f48843a7f36e60b0a16161b5430a2a1a"
   },
   "fonts": [
     "lovely-icons/lovely-icons.ttf",
@@ -133,6 +133,18 @@
     "female-gender": {
       "codepoint": 61768,
       "source": "svg/female-gender.svg"
+    },
+    "firefox": {
+      "codepoint": 61773,
+      "source": "svg/firefox.svg"
+    },
+    "git": {
+      "codepoint": 61774,
+      "source": "svg/git.svg"
+    },
+    "github": {
+      "codepoint": 61775,
+      "source": "svg/github.svg"
     },
     "google-wallet": {
       "codepoint": 61770,
@@ -266,6 +278,10 @@
       "codepoint": 61757,
       "source": "svg/snapchat.svg"
     },
+    "spotify": {
+      "codepoint": 61776,
+      "source": "svg/spotify.svg"
+    },
     "star": {
       "codepoint": 61705,
       "source": "svg/star.svg"
@@ -273,6 +289,10 @@
     "trash": {
       "codepoint": 61718,
       "source": "svg/trash.svg"
+    },
+    "trello": {
+      "codepoint": 61777,
+      "source": "svg/trello.svg"
     },
     "truck": {
       "codepoint": 61765,

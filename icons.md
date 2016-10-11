@@ -1,4 +1,4 @@
-## Total of Icons: 73
+## Total of Icons: 81
 
 
 | Distribution          | CSS class                | Inclusion code
@@ -15,8 +15,6 @@
 | recycle               | `li-recycle`             | `<div class="li-recycle"></div>`
 | star                  | `li-star`                | `<div class="li-star"></div>`
 | location              | `li-location`            | `<div class="li-location"></div>`
-| facebook              | `li-facebook`            | `<div class="li-facebook"></div>`
-| whatsapp              | `li-whatsapp`            | `<div class="li-whatsapp"></div>`
 | email                 | `li-email`               | `<div class="li-email"></div>`
 | rain-drop             | `li-rain-drop`           | `<div class="li-rain-drop"></div>`
 | search                | `li-search`              | `<div class="li-search"></div>`
@@ -26,11 +24,9 @@
 | power                 | `li-power`               | `<div class="li-power"></div>`
 | trash                 | `li-trash`               | `<div class="li-trash"></div>`
 | cancel                | `li-cancel`              | `<div class="li-cancel"></div>`
-| android               | `li-android`             | `<div class="li-android"></div>`
 | bars                  | `li-bars`                | `<div class="li-bars"></div>`
 | play-button           | `li-play-button`         | `<div class="li-play-button"></div>`
 | fast-foward           | `li-fast-foward`         | `<div class="li-fast-foward"></div>`
-| amazon                | `li-amazon`              | `<div class="li-amazon"></div>`
 | cloud-download        | `li-cloud-download`      | `<div class="li-cloud-download"></div>`
 | arrow-down-circle     | `li-arrow-down-circle`   | `<div class="li-arrow-down"></div>`
 | shoping-cart          | `li-shoping-cart`        | `<div class="li-shoping-cart"></div>`
@@ -46,7 +42,6 @@
 | picarto               | `li-picarto`             | `<div class="li-picarto"></div>`
 | deviantart            | `li-deviantart`          | `<div class="li-deviantart"></div>`
 | pinterest             | `li-pinterest`           | `<div class="li-pinterest"></div>`
-| youtube               | `li-youtube`             | `<div class="li-youtube"></div>`
 | ios-trash             | `li-ios-trash`           | `<div class="li-ios-trash"></div>`
 | ios-share             | `li-ios-share`           | `<div class="li-ios-share"></div>`
 | ios-location          | `li-ios-location`        | `<div class="li-ios-location"></div>`
@@ -96,3 +91,18 @@
 | mastercard            | `li-mastercard`          | `<div class="li-mastercard"></div>`
 | google-wallet         | `li-google-wallet`       | `<div class="li-google-wallet"></div>`
 | wallet                | `li-wallet`              | `<div class="li-wallet"></div>`
+
+## Brand Icons
+
+| Distribution          | CSS class                | Inclusion code
+| ----------------------|--------------------------|-------------------------------------
+| amazon                | `li-amazon`              | `<div class="li-amazon"></div>`
+| android               | `li-android`             | `<div class="li-android"></div>`
+| facebook              | `li-facebook`            | `<div class="li-facebook"></div>`
+| git                   | `li-git`                 | `<div class="li-git"></div>`
+| github                | `li-github`              | `<div class="li-github"></div>`
+| firefox               | `li-firefox`             | `<div class="li-firefox"></div>`
+| youtube               | `li-youtube`             | `<div class="li-youtube"></div>`
+| whatsapp              | `li-whatsapp`            | `<div class="li-whatsapp"></div>`
+| trello                | `li-trello`              | `<div class="li-trello"></div>`
+| spotify               | `li-spotify`             | `<div class="li-spotify"></div>`

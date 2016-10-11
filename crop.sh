@@ -1,0 +1,1 @@
+wkhtmltoimage index.html ./images/lovely-icons.png

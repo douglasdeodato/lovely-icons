@@ -1,6 +1,9 @@
 # [LovelyIcons](http://www.douglasdeodato.com/lovelyicons)
 
-CSS Icons made with Love
+## CSS Icons made with Love
+
+![some icons](images/lovely-icons.png)
+
 
 ## Summary
 

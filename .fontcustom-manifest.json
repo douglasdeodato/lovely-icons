@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "8826178dd8de8c1e24a2ee39b6a37cdc36bbc73af990c12cbc50508e50806faa",
-    "current": "8826178dd8de8c1e24a2ee39b6a37cdc36bbc73af990c12cbc50508e50806faa"
+    "previous": "62d9d104464f1514a783103636513d5635159abb22422d9cee82a670cd0e1df0",
+    "current": "62d9d104464f1514a783103636513d5635159abb22422d9cee82a670cd0e1df0"
   },
   "fonts": [
     "lovely-icons/lovely-icons.ttf",
@@ -17,6 +17,10 @@
     "amazon": {
       "codepoint": 61724,
       "source": "svg/amazon.svg"
+    },
+    "ambulance": {
+      "codepoint": 61766,
+      "source": "svg/ambulance.svg"
     },
     "anchor": {
       "codepoint": 61754,
@@ -61,6 +65,10 @@
     "batteryfull": {
       "codepoint": 61731,
       "source": "svg/batteryfull.svg"
+    },
+    "bike": {
+      "codepoint": 61767,
+      "source": "svg/bike.svg"
     },
     "bluetooth": {
       "codepoint": 61732,
@@ -121,6 +129,10 @@
     "fast-foward": {
       "codepoint": 61723,
       "source": "svg/fast-foward.svg"
+    },
+    "female-gender": {
+      "codepoint": 61768,
+      "source": "svg/female-gender.svg"
     },
     "heart": {
       "codepoint": 61700,
@@ -189,6 +201,10 @@
     "location": {
       "codepoint": 61703,
       "source": "svg/location.svg"
+    },
+    "male-gender": {
+      "codepoint": 61769,
+      "source": "svg/male-gender.svg"
     },
     "mic": {
       "codepoint": 61734,

@@ -25,6 +25,7 @@
 [data-icon]:before,
 .li-add:before,
 .li-amazon:before,
+.li-ambulance:before,
 .li-anchor:before,
 .li-android:before,
 .li-arrow-down:before,
@@ -36,6 +37,7 @@
 .li-bars:before,
 .li-batman:before,
 .li-batteryfull:before,
+.li-bike:before,
 .li-bluetooth:before,
 .li-camera:before,
 .li-cancel:before,
@@ -51,6 +53,7 @@
 .li-eye:before,
 .li-facebook:before,
 .li-fast-foward:before,
+.li-female-gender:before,
 .li-heart:before,
 .li-instagram:before,
 .li-invoice:before,
@@ -68,6 +71,7 @@
 .li-iphone:before,
 .li-linkedin:before,
 .li-location:before,
+.li-male-gender:before,
 .li-mic:before,
 .li-picarto:before,
 .li-pinterest:before,
@@ -108,6 +112,7 @@
 
 .li-add:before { content: "\f113"; }
 .li-amazon:before { content: "\f11c"; }
+.li-ambulance:before { content: "\f146"; }
 .li-anchor:before { content: "\f13a"; }
 .li-android:before { content: "\f118"; }
 .li-arrow-down:before { content: "\f11d"; }
@@ -119,6 +124,7 @@
 .li-bars:before { content: "\f119"; }
 .li-batman:before { content: "\f11e"; }
 .li-batteryfull:before { content: "\f123"; }
+.li-bike:before { content: "\f147"; }
 .li-bluetooth:before { content: "\f124"; }
 .li-camera:before { content: "\f125"; }
 .li-cancel:before { content: "\f114"; }
@@ -134,6 +140,7 @@
 .li-eye:before { content: "\f120"; }
 .li-facebook:before { content: "\f106"; }
 .li-fast-foward:before { content: "\f11b"; }
+.li-female-gender:before { content: "\f148"; }
 .li-heart:before { content: "\f104"; }
 .li-instagram:before { content: "\f105"; }
 .li-invoice:before { content: "\f102"; }
@@ -151,6 +158,7 @@
 .li-iphone:before { content: "\f122"; }
 .li-linkedin:before { content: "\f103"; }
 .li-location:before { content: "\f107"; }
+.li-male-gender:before { content: "\f149"; }
 .li-mic:before { content: "\f126"; }
 .li-picarto:before { content: "\f128"; }
 .li-pinterest:before { content: "\f12c"; }

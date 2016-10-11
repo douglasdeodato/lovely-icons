@@ -67,19 +67,26 @@
 | arrow-down            | `li-arrow-down`          | `<div class="li-arrow-down"></div>`
 | arrow-left            | `li-arrow-left`          | `<div class="li-arrow-left"></div>`
 | arrow-right           | `li-arrow-right`         | `<div class="li-arrow-right"></div>`
-| car                   | `li-car`                 | `<div class="li-car"></div>`
-| truck                 | `li-truck`               | `<div class="li-truck"></div>`
 | at                    | `li-at`                  | `<div class="li-at"></div>`
 | coffee                | `li-coffee`              | `<div class="li-coffee"></div>`
 
 
 
 
+Transportation Icons
 
 
+| car                   | `li-car`                 | `<div class="li-car"></div>`
+| truck                 | `li-truck`               | `<div class="li-truck"></div>`
+| bike                  | `li-bike`                | `<div class="li-bike"></div>`
+| ambulance             | `li-bike`                | `<div class="li-ambulance"></div>`
 
 
+Gender Icons
 
+
+| male-gender           | `li-male-gender `        | `<div class="li-male-gender "></div>`
+| female-gender         | `li-female-gender`       | `<div class="li-female-gender"></div>`
 
 
 

@@ -43,7 +43,6 @@
 | batteryfull           | `li-batteryfull`         | `<div class="li-batteryfull"></div>`
 | camera                | `li-camera`              | `<div class="li-camera"></div>`
 | shakespeare           | `li-shakespeare`         | `<div class="li-shakespeare"></div>`
-| wallet                | `li-wallet`              | `<div class="li-wallet"></div>`
 | picarto               | `li-picarto`             | `<div class="li-picarto"></div>`
 | deviantart            | `li-deviantart`          | `<div class="li-deviantart"></div>`
 | pinterest             | `li-pinterest`           | `<div class="li-pinterest"></div>`
@@ -89,4 +88,11 @@
 | female-gender         | `li-female-gender`       | `<div class="li-female-gender"></div>`
 
 
+## Payment Icons
 
+| Distribution          | CSS class                | Inclusion code
+| ----------------------|--------------------------|-------------------------------------
+| visa                  | `li-visa `               | `<div class="li-visa "></div>`
+| mastercard            | `li-mastercard`          | `<div class="li-mastercard"></div>`
+| google-wallet         | `li-google-wallet`       | `<div class="li-google-wallet"></div>`
+| wallet                | `li-wallet`              | `<div class="li-wallet"></div>`

@@ -54,6 +54,7 @@
 .li-facebook:before,
 .li-fast-foward:before,
 .li-female-gender:before,
+.li-google-wallet:before,
 .li-heart:before,
 .li-instagram:before,
 .li-invoice:before,
@@ -72,6 +73,7 @@
 .li-linkedin:before,
 .li-location:before,
 .li-male-gender:before,
+.li-mastercard:before,
 .li-mic:before,
 .li-picarto:before,
 .li-pinterest:before,
@@ -89,6 +91,7 @@
 .li-trash:before,
 .li-truck:before,
 .li-twitter:before,
+.li-visa:before,
 .li-volume-off:before,
 .li-wallet:before,
 .li-whatsapp:before,
@@ -141,6 +144,7 @@
 .li-facebook:before { content: "\f106"; }
 .li-fast-foward:before { content: "\f11b"; }
 .li-female-gender:before { content: "\f148"; }
+.li-google-wallet:before { content: "\f14a"; }
 .li-heart:before { content: "\f104"; }
 .li-instagram:before { content: "\f105"; }
 .li-invoice:before { content: "\f102"; }
@@ -159,6 +163,7 @@
 .li-linkedin:before { content: "\f103"; }
 .li-location:before { content: "\f107"; }
 .li-male-gender:before { content: "\f149"; }
+.li-mastercard:before { content: "\f14b"; }
 .li-mic:before { content: "\f126"; }
 .li-picarto:before { content: "\f128"; }
 .li-pinterest:before { content: "\f12c"; }
@@ -176,6 +181,7 @@
 .li-trash:before { content: "\f116"; }
 .li-truck:before { content: "\f145"; }
 .li-twitter:before { content: "\f10a"; }
+.li-visa:before { content: "\f14c"; }
 .li-volume-off:before { content: "\f127"; }
 .li-wallet:before { content: "\f12a"; }
 .li-whatsapp:before { content: "\f10b"; }

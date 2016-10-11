@@ -10,6 +10,7 @@ CSS Icons made with Love
 - [Request](#request)
 - [Dependencies](#dependencies)
 - [Creator](#creator)
+- [Compiling](#compailing)
 
 
 ## About
@@ -33,6 +34,9 @@ Attach the image or the svg you'd like to add.
 * This project uses [fontcustom](https://github.com/FontCustom/fontcustom) to compile vectors into fonts.
 
 
+## Compiling
+
+$ fontcustom compile svg
 
 
 ## Creator

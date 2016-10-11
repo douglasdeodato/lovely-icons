@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "91b665f324d7db1ced546e294c92dcfecf5e1731b20f83ded94c4ff2cbbf3691",
-    "current": "91b665f324d7db1ced546e294c92dcfecf5e1731b20f83ded94c4ff2cbbf3691"
+    "previous": "ee0b1bdfc9e6d7d33667590f3d17bdf026ccaf19392a3a7d1dbf0ce4d572be6e",
+    "current": "ee0b1bdfc9e6d7d33667590f3d17bdf026ccaf19392a3a7d1dbf0ce4d572be6e"
   },
   "fonts": [
     "lovely-icons/lovely-icons.ttf",
@@ -29,6 +29,22 @@
     "arrow-down": {
       "codepoint": 61725,
       "source": "svg/arrow-down.svg"
+    },
+    "arrow-down-circle": {
+      "codepoint": 61758,
+      "source": "svg/arrow-down-circle.svg"
+    },
+    "arrow-left": {
+      "codepoint": 61759,
+      "source": "svg/arrow-left.svg"
+    },
+    "arrow-right": {
+      "codepoint": 61760,
+      "source": "svg/arrow-right.svg"
+    },
+    "arrow-up": {
+      "codepoint": 61761,
+      "source": "svg/arrow-up.svg"
     },
     "bars": {
       "codepoint": 61721,

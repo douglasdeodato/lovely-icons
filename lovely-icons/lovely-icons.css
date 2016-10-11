@@ -28,6 +28,10 @@
 .li-anchor:before,
 .li-android:before,
 .li-arrow-down:before,
+.li-arrow-down-circle:before,
+.li-arrow-left:before,
+.li-arrow-right:before,
+.li-arrow-up:before,
 .li-bars:before,
 .li-batman:before,
 .li-batteryfull:before,
@@ -103,6 +107,10 @@
 .li-anchor:before { content: "\f13a"; }
 .li-android:before { content: "\f118"; }
 .li-arrow-down:before { content: "\f11d"; }
+.li-arrow-down-circle:before { content: "\f13e"; }
+.li-arrow-left:before { content: "\f13f"; }
+.li-arrow-right:before { content: "\f140"; }
+.li-arrow-up:before { content: "\f141"; }
 .li-bars:before { content: "\f119"; }
 .li-batman:before { content: "\f11e"; }
 .li-batteryfull:before { content: "\f123"; }

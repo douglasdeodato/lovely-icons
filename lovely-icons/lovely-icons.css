@@ -32,14 +32,17 @@
 .li-arrow-left:before,
 .li-arrow-right:before,
 .li-arrow-up:before,
+.li-at:before,
 .li-bars:before,
 .li-batman:before,
 .li-batteryfull:before,
 .li-bluetooth:before,
 .li-camera:before,
 .li-cancel:before,
+.li-car:before,
 .li-checked:before,
 .li-cloud-download:before,
+.li-coffee:before,
 .li-database:before,
 .li-debian:before,
 .li-deviantart:before,
@@ -80,6 +83,7 @@
 .li-snapchat:before,
 .li-star:before,
 .li-trash:before,
+.li-truck:before,
 .li-twitter:before,
 .li-volume-off:before,
 .li-wallet:before,
@@ -111,14 +115,17 @@
 .li-arrow-left:before { content: "\f13f"; }
 .li-arrow-right:before { content: "\f140"; }
 .li-arrow-up:before { content: "\f141"; }
+.li-at:before { content: "\f142"; }
 .li-bars:before { content: "\f119"; }
 .li-batman:before { content: "\f11e"; }
 .li-batteryfull:before { content: "\f123"; }
 .li-bluetooth:before { content: "\f124"; }
 .li-camera:before { content: "\f125"; }
 .li-cancel:before { content: "\f114"; }
+.li-car:before { content: "\f143"; }
 .li-checked:before { content: "\f10e"; }
 .li-cloud-download:before { content: "\f11f"; }
+.li-coffee:before { content: "\f144"; }
 .li-database:before { content: "\f13b"; }
 .li-debian:before { content: "\f100"; }
 .li-deviantart:before { content: "\f12e"; }
@@ -159,6 +166,7 @@
 .li-snapchat:before { content: "\f13d"; }
 .li-star:before { content: "\f109"; }
 .li-trash:before { content: "\f116"; }
+.li-truck:before { content: "\f145"; }
 .li-twitter:before { content: "\f10a"; }
 .li-volume-off:before { content: "\f127"; }
 .li-wallet:before { content: "\f12a"; }

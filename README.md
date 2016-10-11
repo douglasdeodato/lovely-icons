@@ -10,13 +10,13 @@ CSS Icons made with Love
 - [Request](#request)
 - [Dependencies](#dependencies)
 - [Creator](#creator)
-- [Compiling](#compailing)
+- [Compiling](#compiling)
 
 
 ## About
 
 
-## Total of Icons: 61 [see](icons.md)
+## Total of Icons: 69 [see](icons.md)
 
 
 ## CDN

@@ -67,9 +67,10 @@
 | arrow-down            | `li-arrow-down`          | `<div class="li-arrow-down"></div>`
 | arrow-left            | `li-arrow-left`          | `<div class="li-arrow-left"></div>`
 | arrow-right           | `li-arrow-right`         | `<div class="li-arrow-right"></div>`
-
-
-
+| car                   | `li-car`                 | `<div class="li-car"></div>`
+| truck                 | `li-truck`               | `<div class="li-truck"></div>`
+| at                    | `li-at`                  | `<div class="li-at"></div>`
+| coffee                | `li-coffee`              | `<div class="li-coffee"></div>`
 
 
 

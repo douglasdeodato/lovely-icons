@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "ee0b1bdfc9e6d7d33667590f3d17bdf026ccaf19392a3a7d1dbf0ce4d572be6e",
-    "current": "ee0b1bdfc9e6d7d33667590f3d17bdf026ccaf19392a3a7d1dbf0ce4d572be6e"
+    "previous": "8826178dd8de8c1e24a2ee39b6a37cdc36bbc73af990c12cbc50508e50806faa",
+    "current": "8826178dd8de8c1e24a2ee39b6a37cdc36bbc73af990c12cbc50508e50806faa"
   },
   "fonts": [
     "lovely-icons/lovely-icons.ttf",
@@ -46,6 +46,10 @@
       "codepoint": 61761,
       "source": "svg/arrow-up.svg"
     },
+    "at": {
+      "codepoint": 61762,
+      "source": "svg/at.svg"
+    },
     "bars": {
       "codepoint": 61721,
       "source": "svg/bars.svg"
@@ -70,6 +74,10 @@
       "codepoint": 61716,
       "source": "svg/cancel.svg"
     },
+    "car": {
+      "codepoint": 61763,
+      "source": "svg/car.svg"
+    },
     "checked": {
       "codepoint": 61710,
       "source": "svg/checked.svg"
@@ -77,6 +85,10 @@
     "cloud-download": {
       "codepoint": 61727,
       "source": "svg/cloud-download.svg"
+    },
+    "coffee": {
+      "codepoint": 61764,
+      "source": "svg/coffee.svg"
     },
     "database": {
       "codepoint": 61755,
@@ -237,6 +249,10 @@
     "trash": {
       "codepoint": 61718,
       "source": "svg/trash.svg"
+    },
+    "truck": {
+      "codepoint": 61765,
+      "source": "svg/truck.svg"
     },
     "twitter": {
       "codepoint": 61706,

@@ -1,4 +1,4 @@
-## Total of Icons: 61
+## Total of Icons: 73
 
 
 | Distribution          | CSS class                | Inclusion code
@@ -71,20 +71,20 @@
 | coffee                | `li-coffee`              | `<div class="li-coffee"></div>`
 
 
+## Transportation Icons
 
-
-Transportation Icons
-
-
+| Distribution          | CSS class                | Inclusion code
+| ----------------------|--------------------------|-------------------------------------
 | car                   | `li-car`                 | `<div class="li-car"></div>`
 | truck                 | `li-truck`               | `<div class="li-truck"></div>`
 | bike                  | `li-bike`                | `<div class="li-bike"></div>`
 | ambulance             | `li-bike`                | `<div class="li-ambulance"></div>`
 
 
-Gender Icons
+## Gender Icons
 
-
+| Distribution          | CSS class                | Inclusion code
+| ----------------------|--------------------------|-------------------------------------
 | male-gender           | `li-male-gender `        | `<div class="li-male-gender "></div>`
 | female-gender         | `li-female-gender`       | `<div class="li-female-gender"></div>`
 

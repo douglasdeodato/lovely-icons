@@ -9,7 +9,7 @@
 
 - [About](#about)
 - [Total of Icons](#totaloficons)
-- [CDN](#cdn)
+- [Usage](#usage)
 - [Request](#request)
 - [Dependencies](#dependencies)
 - [Creator](#creator)
@@ -22,9 +22,14 @@
 ## Total of Icons: 81 [see](icons.md)
 
 
-## CDN
-https://cdn.jsdelivr.net/lovely-icons/0.1.4/lovely-icons/lovely-icons.css
+## Usage
 
+You can source lovely-icons directly from a CDN like JSDliver[jsdelivr] or download it from this GitHub project.
+
+or adding in your html file.
+```
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/lovely-icons/0.1.4/lovely-icons/lovely-icons.css">
+```
 
 ## Request or contribute new icons?
 
@@ -48,3 +53,6 @@ $ fontcustom compile svg
 
 - <http://douglasdeodato.com>
 - <https://github.com/douglasdeodato>
+
+
+[jsdelivr]: http://www.jsdelivr.com/projects/lovely-icons
